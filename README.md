@@ -1,1 +1,2 @@
 # calculator-net
+This is a basic calculator done in a .NET 5.0 console application. It has the basic Addition, Subtraction, Multiplication, and Division operations. It will take in inputs and attempt to parse them into decimals. A string split is done on all input to determine the first and second numbers, and then the operation is run through a switch to determine which operation to do.
